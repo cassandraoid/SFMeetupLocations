@@ -10,11 +10,7 @@
 
 Company | Capacity | Location | Notes
 ------------ | ------------- | ------------- | -------------
-
-**Iron. io** | 120 | 288 7th St. *(VIDEO)*
-
-**Heroku** - 100 - 650 7th t. *(NDA)*
-
-**Fastly** - 100 - 475 Brannan Street, Ste. 320 *(VIDEO)*
-
-**Betable** - 125  - 334 Brannan Street
+**Iron. io** | 120 | 288 7th St.| *VIDEO*
+**Heroku** | 100 | 650 7th St.| *NDA*
+**Fastly** | 100 | 475 Brannan Street, Ste. 320 | *VIDEO*
+**Betable** | 125  | 334 Brannan Street | *VIDEO*
