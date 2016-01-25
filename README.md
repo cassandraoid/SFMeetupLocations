@@ -1,4 +1,9 @@
 # SFMeetupLocations
-Locations that are open to hosting various meetups with info on capacity. 
+Locations in San Francisco willing to host tech meetups for free with capacity and address. 
 
-Iron. io - 120 - Address 288 7th St. 
+Company -- Capacity -- Location (NDA -- company requires and NDA to be signed by guests)
+
+Iron. io - 120 - 288 7th St. 
+
+Heroku - 100 - 650 7th t. 
+
