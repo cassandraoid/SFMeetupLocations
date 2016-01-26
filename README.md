@@ -8,10 +8,11 @@
 *NDA = company requests guests to sign NDA*
 
 
-Company | Capacity | Location | Notes
------------- | ------------- | ------------- | -------------
-**Iron. io** | 120 | 288 7th St.| *VIDEO*
-**Heroku** | 100 | 650 7th St.| *NDA*
-**Fastly** | 100 | 475 Brannan Street, Ste. 320 | *VIDEO*
-**Betable** | 125  | 334 Brannan Street | *VIDEO*
-**Cloudflare** | 209 | 101 Townsend Street | *VIDEO*
+Company | Capacity | Location | Twitter | Notes
+------------ | ------------- | ------------- | ------------- | -------------
+**Iron. io** | 120 | 288 7th St.| @getiron | *VIDEO*
+**Heroku** | 100 | 650 7th St.|@heroku | *NDA*
+**Fastly** | 100 | 475 Brannan Street, Ste. 320 | @fastly | *VIDEO*
+**Betable** | 125  | 334 Brannan Street | @betable | *VIDEO*
+**Cloudflare** | 209 | 101 Townsend Street | @cloudflare | *VIDEO*
+**Hotel Tonight** | 100 | 901 Market St #310 | @hoteltonight
