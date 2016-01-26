@@ -14,3 +14,4 @@ Company | Capacity | Location | Notes
 **Heroku** | 100 | 650 7th St.| *NDA*
 **Fastly** | 100 | 475 Brannan Street, Ste. 320 | *VIDEO*
 **Betable** | 125  | 334 Brannan Street | *VIDEO*
+**Cloudflare** | 209 | 101 Townsend Street | *VIDEO*
