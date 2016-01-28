@@ -14,5 +14,6 @@ Company | Capacity | Location | Twitter | Notes
 **Heroku** | 100 | 650 7th St.|@heroku | *NDA*
 **Fastly** | 100 | 475 Brannan St. Ste. 320 | @fastly | *VIDEO*
 **Betable** | 125  | 334 Brannan St. | @betable | *VIDEO*
-**Cloudflare** | 209 | 101 Townsend St. | @cloudflare | *VIDEO*
+**Cloudflare** | 140 | 101 Townsend St. | @cloudflare | *VIDEO*
 **Hotel Tonight** | 100 | 901 Market St. #310 | @hoteltonight
+**New Relic** | 140 | 188 Spear St | @newrelic |
