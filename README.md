@@ -10,7 +10,6 @@
 
 Company | Capacity | Location | Twitter | Notes
 ------------ | ------------- | ------------- | ------------- | -------------
-**Iron. io** | 120 | 288 7th St.| @getiron | *VIDEO*
 **Heroku** | 100 | 650 7th St.|@heroku | *NDA*
 **Fastly** | 100 | 475 Brannan St. Ste. 320 | @fastly | *VIDEO*
 **Betable** | 125  | 334 Brannan St. | @betable | *VIDEO*
