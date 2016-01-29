@@ -19,3 +19,4 @@ Company | Capacity | Location | Twitter | Notes
 **New Relic** | 140 | 188 Spear St | @newrelic |
 **Instacart** | 200 | 50 Beale Street | @lifeatinstacart |
 **Thumbtack** | 90 | 360 9th St. | @thumbtack |
+**GoPro** | 300 | 835 Market Street 7th fl | @GoPro |
